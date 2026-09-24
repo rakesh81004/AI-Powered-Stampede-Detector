@@ -3,6 +3,10 @@
 An **AI-based real-time crowd density monitoring system** designed to detect and prevent potential stampedes using **computer vision**, **machine learning**, and **automated alerts**.  
 The system continuously analyzes live CCTV feeds, identifies crowd surges, and notifies authorities instantly via email — enabling faster response and ensuring public safety.  
 
+![Critical Density - Stampede Detection](Critical%20Density%20-%20Stampede%20Detection%20Screenshot%20.png)
+
+![Normal Density - Stampede Detection](Nomal%20Density%20-%20Stampede%20Detection%20Screenshot%20.png)
+
 ---
 
 ## ⚙️ Tech Stack with Integrated Features
